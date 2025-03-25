@@ -19,7 +19,7 @@ const HeroSection = () => {
       </div>
 
       <h1 className='font-bold py-6 text-center'>
-        Transform a PDF into a concise digestable summary for easy reading
+        Transform a PDF into a concise digestable summary for easy
       </h1>
       <h2 className='text-lg sm:text-xl lg:text-2xl text-center px-4 lg:px-0 lg:max-w-4xl text-gray-600'>
         Get a awesome summary reel in seconds
