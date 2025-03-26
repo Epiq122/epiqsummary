@@ -11,7 +11,7 @@ const fontSans = FontSans({
 
 export const metadata: Metadata = {
   title: 'EpiqSummary - AI-Powered PDF Summarization',
-  description: 'EpiqSummary is a tool that summarizes PDF documents.',
+  description: 'EpiqSummary is a tool that summarizes PDF documents',
 };
 
 export default function RootLayout({
